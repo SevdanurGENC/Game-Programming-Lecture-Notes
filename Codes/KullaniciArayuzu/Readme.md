@@ -1,1 +1,11 @@
 
+![2023-12-05_00h46_19](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/53e10b91-8fe5-4a6b-a33f-0df423832729)
+![2023-12-05_00h53_13](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/5f26fbda-5261-44d8-a997-f15861f5c280)
+![2023-12-05_00h53_44](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/7fad732d-0e59-49cb-93ce-0f5b38072249)
+![2023-12-05_00h56_04](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/68dccd1e-4cfe-4593-b2d9-56c5c335dc5b)
+![2023-12-05_00h56_52](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/0a8dad38-70c5-4def-a4e2-5bbe457d12c8)
+![2023-12-05_01h08_34](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/ede9ccc9-269e-4fae-bf25-1801ec0d8a1a)
+![2023-12-05_01h09_38](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/763fab41-13f1-4d8e-8eb5-310a184011fe)
+![2023-12-05_01h13_47](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/1aa16a97-1c76-4c91-a93b-88ba0dc6bd2e)
+![2023-12-05_01h32_58](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/6c4115c2-b86c-4757-b0a6-83dc94f8c10c)
+![2023-12-05_01h33_47](https://github.com/SevdanurGENC/Game-Programming-Lecture-Notes/assets/5441882/609d1e04-399b-4223-903a-cfc8bfebe953)
